@@ -61,3 +61,4 @@ jobs:
           app-name: 'reneges-inference'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C337AFDA2EE42DAB5986E788D0D8721 }}
+
