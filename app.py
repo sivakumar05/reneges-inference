@@ -3,11 +3,11 @@ from Functions import classificationModel
 import pandas as pd
 from fileinput import filename
 
-<<<<<<< HEAD
-=======
+#<<<<<<< HEAD
+#=======
 
 
->>>>>>> 4ae8b0f1ae066ba8b7c071875fba712ab63808a8
+#>>>>>>> 4ae8b0f1ae066ba8b7c071875fba712ab63808a8
 #trainData = pd.read_excel('C:/HiringEngine/Data/RenegeData.xlsx')
 #traindata=trainData.copy()
 #testData = pd.read_excel('C:/HiringEngine/HiringEngine/RenegeAnalytics/RenegeAnalytics/Data/TestData.xlsx')
